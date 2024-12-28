@@ -1,4 +1,4 @@
-.env
+
 virtualenv
 *.pyc
 __pcache__/
