@@ -2,3 +2,5 @@
 virtualenv
 *.pyc
 __pcache__/
+config/forexrate/forex data/cleaned_eur_usd_10_years.csv
+config/forexrate/forex data/eur_usd_10_years.csv
