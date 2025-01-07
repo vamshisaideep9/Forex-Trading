@@ -2,6 +2,28 @@
 virtualenv
 *.pyc
 __pcache__/
+config/forexrate/forex data/cleaned_usd_jpy_10_years.csv
+config/forexrate/forex data/cleaned_usd_cny_10_years.csv
 config/forexrate/forex data/cleaned_eur_usd_10_years.csv
+config/forexrate/forex data/cleaned_usd_cad_10_years.csv
+config/forexrate/forex data/cleaned_gbp_usd_10_years.csv
+
 config/forexrate/forex data/eur_usd_10_years.csv
-config/forexrate/forex data/prepared_forex_data.csv
+config/forexrate/forex data/gbp_usd_10_years.csv
+config/forexrate/forex data/usd_cad_10_years.csv
+config/forexrate/forex data/usd_cny_10_years.csv
+config/forexrate/forex data/usd_jpy_10_years.csv
+
+
+config/forexrate/forex data/prepared_eur_usd_data.csv
+config/forexrate/forex data/prepared_gbp_usd_data.csv
+config/forexrate/forex data/prepared_usd_cad_data.csv
+config/forexrate/forex data/prepared_usd_cny_data.csv
+config/forexrate/forex data/prepared_usd_jpy_data.csv
+
+
+config/intrestratesandeconomicdata/data/intrest_rates/bgp.csv
+config/intrestratesandeconomicdata/data/intrest_rates/cad.csv
+config/intrestratesandeconomicdata/data/intrest_rates/cny.csv
+config/intrestratesandeconomicdata/data/intrest_rates/eur.csv
+config/intrestratesandeconomicdata/data/intrest_rates/usd.csv
