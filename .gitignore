@@ -27,3 +27,17 @@ config/intrestratesandeconomicdata/data/intrest_rates/cad.csv
 config/intrestratesandeconomicdata/data/intrest_rates/cny.csv
 config/intrestratesandeconomicdata/data/intrest_rates/eur.csv
 config/intrestratesandeconomicdata/data/intrest_rates/usd.csv
+
+
+config/intrestratesandeconomicdata/data/intrest_rates/processed_bgp.csv
+config/intrestratesandeconomicdata/data/intrest_rates/processed_cad.csv
+config/intrestratesandeconomicdata/data/intrest_rates/processed_cny.csv
+config/intrestratesandeconomicdata/data/intrest_rates/processed_eur.csv
+config/intrestratesandeconomicdata/data/intrest_rates/processed_usd.csv
+config/intrestratesandeconomicdata/data/intrest_rates/processed_jpy.csv
+
+config/intrestratesandeconomicdata/data/intrest_rates/merged_forex_interest_rates.csv
+
+
+config/intrestratesandeconomicdata/data/CPI/bgp_cpi.csv
+config/intrestratesandeconomicdata/data/CPI/euro_cpi.csv
