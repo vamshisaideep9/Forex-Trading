@@ -39,5 +39,10 @@ config/intrestratesandeconomicdata/data/intrest_rates/processed_jpy.csv
 config/intrestratesandeconomicdata/data/intrest_rates/merged_forex_interest_rates.csv
 
 
-config/intrestratesandeconomicdata/data/CPI/bgp_cpi.csv
-config/intrestratesandeconomicdata/data/CPI/euro_cpi.csv
+config/intrestratesandeconomicdata/data/CPI/bgp_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/euro_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/cad_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/cny_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/JPY_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/usa_inflation_rate.csv
+config/intrestratesandeconomicdata/data/CPI/final_inflation_differentials_rate.csv
