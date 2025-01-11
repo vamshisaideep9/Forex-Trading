@@ -46,3 +46,30 @@ config/intrestratesandeconomicdata/data/CPI/cny_inflation_rate.csv
 config/intrestratesandeconomicdata/data/CPI/JPY_inflation_rate.csv
 config/intrestratesandeconomicdata/data/CPI/usa_inflation_rate.csv
 config/intrestratesandeconomicdata/data/CPI/final_inflation_differentials_rate.csv
+
+
+config/intrestratesandeconomicdata/data/Unemployment rate/cad_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/cny_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/eur_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/gbp_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/jpy_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/usa_unemployment_rate.csv
+config/intrestratesandeconomicdata/data/Unemployment rate/final_unemployment_rate.csv
+
+
+
+config/intrestratesandeconomicdata/data/GDP/cad_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/cny_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/eur_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/gbp_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/jpy_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/usa_gdp_growth_rate.csv
+config/intrestratesandeconomicdata/data/GDP/final_gdp_growth_rate.csv
+
+
+config/forexrate/data/currency index/cad.csv
+config/forexrate/data/currency index/cny.csv
+config/forexrate/data/currency index/euro.csv
+config/forexrate/data/currency index/gbp.csv
+config/forexrate/data/currency index/jpy.csv
+config/forexrate/data/currency index/usd.csv
