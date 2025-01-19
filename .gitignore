@@ -73,3 +73,19 @@ config/forexrate/data/currency index/euro.csv
 config/forexrate/data/currency index/gbp.csv
 config/forexrate/data/currency index/jpy.csv
 config/forexrate/data/currency index/usd.csv
+config/forexrate/data/currency index/merged_currency_indexes.csv
+
+
+config/forexrate/data/cot/eur_usd_cot.csv
+config/forexrate/data/cot/gbp_usd_cot.csv
+config/forexrate/data/cot/usd_cad_cot.csv
+config/forexrate/data/cot/usd_jpy_cot.csv
+
+
+config/forexrate/data/Trade balance/cad_trade_balance.csv
+config/forexrate/data/Trade balance/cny_trade_balance.csv
+config/forexrate/data/Trade balance/euro_trade_balance.csv
+config/forexrate/data/Trade balance/gbp_trade_balance.csv
+config/forexrate/data/Trade balance/jpy_trade_balance.csv
+config/forexrate/data/Trade balance/us_trade_balance.csv
+config/forexrate/data/Trade balance/cleaned_data_trade_balance.csv
