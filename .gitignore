@@ -89,3 +89,10 @@ config/forexrate/data/Trade balance/gbp_trade_balance.csv
 config/forexrate/data/Trade balance/jpy_trade_balance.csv
 config/forexrate/data/Trade balance/us_trade_balance.csv
 config/forexrate/data/Trade balance/cleaned_data_trade_balance.csv
+
+config/forexrate/data/oil rates/brent.csv
+config/forexrate/data/oil rates/Dubai Crude.csv
+config/forexrate/data/oil rates/wti.csv
+config/forexrate/data/oil rates/updated_wti.csv
+config/forexrate/data/oil rates/updated_brent.csv
+config/forexrate/data/oil rates/updated_Dubai_Crude.csv
