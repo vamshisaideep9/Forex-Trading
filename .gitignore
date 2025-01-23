@@ -96,3 +96,11 @@ config/forexrate/data/oil rates/wti.csv
 config/forexrate/data/oil rates/updated_wti.csv
 config/forexrate/data/oil rates/updated_brent.csv
 config/forexrate/data/oil rates/updated_Dubai_Crude.csv
+
+
+config/forexrate/data/sentiment index/cad_sentiment_index.csv
+config/forexrate/data/sentiment index/cny_sentiment_index.csv
+config/forexrate/data/sentiment index/euro_sentiment_index.csv
+config/forexrate/data/sentiment index/jpy_sentiment_index.csv
+config/forexrate/data/sentiment index/UK_sentiment_index.csv
+config/forexrate/data/sentiment index/usa_sentiment_index.csv
